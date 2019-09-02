@@ -13,3 +13,7 @@ server:
 security:
   user:
     password: ${CONFIG_SERVICE_PASSWORD}
+multipart:
+  enabled: true
+    max-file-size: 20MB
+    max-request-size: 20MB
