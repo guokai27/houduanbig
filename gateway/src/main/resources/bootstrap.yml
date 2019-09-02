@@ -10,7 +10,7 @@ spring:
  #文件大小 MB必须大写
 #  maxFileSize 是单个文件大小
 #  maxRequestSize是设置总上传的数据大小
-spring:
+
   servlet:
     multipart:
       enabled: true
