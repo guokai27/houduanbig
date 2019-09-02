@@ -16,7 +16,6 @@ eureka:
     fetchRegistry: false
     server:
       waitTimeInMsWhenSyncEmpty: 0
-spring:
   servlet:
     multipart:
       enabled: true
